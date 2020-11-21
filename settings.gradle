@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='UTS_AMUB_TI7J_1711500121_PanjiDharmaYuda'
+include 'libs'
+include ':libs:picasso-master'

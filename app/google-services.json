@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295829706761",
+    "firebase_url": "https://utspanjidharmayuda.firebaseio.com",
+    "project_id": "utspanjidharmayuda",
+    "storage_bucket": "utspanjidharmayuda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295829706761:android:bdb8643ce3ac504150c0d8",
+        "android_client_info": {
+          "package_name": "ac.id.uts_amub_ti7j_1711500121_panjidharmayuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295829706761-fc11gmn05qg5p498pnjntapigv7k32fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDHI50cxz1ozEZvoPAAwMxzzZwfbLRJe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295829706761-fc11gmn05qg5p498pnjntapigv7k32fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
